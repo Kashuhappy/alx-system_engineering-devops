@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Installs and setup firewall: ufw
+# Installing and setting up firewall: ufw
 
 apt-get -y install ufw
 ufw allow ssh
